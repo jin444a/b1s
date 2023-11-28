@@ -15,7 +15,8 @@
 		<style>
 		  .main_image {
 		    position: relative;
-		  } 
+		  }
+		  .main_image_text {
 		    position: absolute;
 		    top: -50%;
 		    left: 50%;
